@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-timeit (2.0-2) unstable; urgency=medium
+
+  * Declare compliance with Debian policy 4.6.1
+  * Sourceful upload for GHC 9.0.2
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Wed, 29 Jun 2022 20:45:49 +0300
+
+haskell-timeit (2.0-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Clint Adams <clint@debian.org>  Fri, 19 Jun 2020 06:41:37 -0400
+
+haskell-timeit (1.0.0.0-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Clint Adams <clint@debian.org>  Sat, 13 Jun 2020 17:20:14 -0400
